@@ -1,0 +1,23 @@
+{
+  "name": "instagram-relationship-tracker",
+  "version": "1.0.0",
+  "description": "Instagram tracker app backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostinho7/instagram-relationship-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostinho7/instagram-relationship-tracker/issues"
+  },
+  "homepage": "https://github.com/mostinho7/instagram-relationship-tracker#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
